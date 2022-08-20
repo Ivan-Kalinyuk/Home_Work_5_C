@@ -1,0 +1,15 @@
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\№38.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\№38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\№38.AssemblyInfoInputs.cache
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\№38.AssemblyInfo.cs
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\№38.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\bin\Debug\net6.0\№38.exe
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\bin\Debug\net6.0\№38.deps.json
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\bin\Debug\net6.0\№38.runtimeconfig.json
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\bin\Debug\net6.0\№38.dll
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\bin\Debug\net6.0\№38.pdb
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\№38.dll
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\refint\№38.dll
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\№38.pdb
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\№38.genruntimeconfig.cache
+C:\Users\ivan_\OneDrive\Рабочий стол\дз №5 по C#\№38\obj\Debug\net6.0\ref\№38.dll
